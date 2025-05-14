@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Soham Sarkar aka sarcsoham
 - 👀 I've been enchanted by the world of coding
-- 🌱 I’m currently learning MATLAB. I have some experience in R too.
+- 🌱 I’m currently learning MATLAB. I have some experience in R too
 - 💞️ I’m looking to collaborate on anything related to coding, really. Looking forward to learn from you all
 - 📫 How to reach me: Probably here
 - ⚡ Passionate about : Working out. Yup, an intermediate efficient level gym rat
